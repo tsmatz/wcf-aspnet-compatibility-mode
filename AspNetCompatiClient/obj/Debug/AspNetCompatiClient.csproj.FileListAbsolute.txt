@@ -1,0 +1,10 @@
+C:\Demo\AspNetCompatiDemo\AspNetCompatiClient\bin\AspNetCompatiClient.dll
+C:\Demo\AspNetCompatiDemo\AspNetCompatiClient\bin\AspNetCompatiClient.pdb
+C:\Demo\AspNetCompatiDemo\AspNetCompatiClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo\AspNetCompatiDemo\AspNetCompatiClient\obj\Debug\AspNetCompatiClient.dll
+C:\Demo\AspNetCompatiDemo\AspNetCompatiClient\obj\Debug\AspNetCompatiClient.pdb
+C:\Demo\AspNetCompatiDemo - コピー\AspNetCompatiClient\bin\AspNetCompatiClient.dll
+C:\Demo\AspNetCompatiDemo - コピー\AspNetCompatiClient\bin\AspNetCompatiClient.pdb
+C:\Demo\AspNetCompatiDemo - コピー\AspNetCompatiClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo\AspNetCompatiDemo - コピー\AspNetCompatiClient\obj\Debug\AspNetCompatiClient.dll
+C:\Demo\AspNetCompatiDemo - コピー\AspNetCompatiClient\obj\Debug\AspNetCompatiClient.pdb

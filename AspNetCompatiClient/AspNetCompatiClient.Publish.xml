@@ -1,0 +1,14 @@
+<publishData>
+  <publishTarget publishUrl="http://kkdeveva05/AspNetCompatiClient/">
+    <file relUrl="Default.aspx" publishTime="08/07/2008 17:07:47" />
+    <file relUrl="bin/AspNetCompatiClient.pdb" publishTime="08/08/2008 11:36:55" />
+    <file relUrl="bin/AspNetCompatiClient.dll" publishTime="08/08/2008 11:36:55" />
+    <file relUrl="Web.config" publishTime="08/07/2008 22:33:57" />
+  </publishTarget>
+  <publishTarget publishUrl="http://kkdeveva04/AspNetCompatiClient/">
+    <file relUrl="Default.aspx" publishTime="08/07/2008 17:07:47" />
+    <file relUrl="bin/AspNetCompatiClient.pdb" publishTime="08/08/2008 11:36:55" />
+    <file relUrl="bin/AspNetCompatiClient.dll" publishTime="08/08/2008 11:36:55" />
+    <file relUrl="Web.config" publishTime="08/07/2008 22:33:57" />
+  </publishTarget>
+</publishData>
