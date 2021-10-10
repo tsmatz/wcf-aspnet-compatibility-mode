@@ -1,6 +1,6 @@
 /// This demo is for :
 
-  Stateful WCF communication using ASP.NET Compatitibility Model
+  Stateful WCF communication using ASP.NET Compatibility Model
   N-tier web application using load balancing
 
 /// How to install
