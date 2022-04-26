@@ -12,3 +12,6 @@
 4. copy AspNetCompatiSvc and AspNetCompatiClient
 
 You can see load balancing web client and WCF service.
+
+See the following post for details.
+https://tsmatz.wordpress.com/2008/08/27/t2-302-follow-up-1-wcf-asp-net-compatibility-model-stateful-n-tier-wcf/
